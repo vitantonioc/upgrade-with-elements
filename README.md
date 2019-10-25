@@ -1,6 +1,6 @@
 # UpgradeWithElements
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) using [Nrwl Nx](https://nrwl.io/nx).
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) using [Nrwl Nx](https://nrwl.io/nx) and Ng8-Ivy
 
 ## Nrwl Extensions for Angular (Nx)
 
